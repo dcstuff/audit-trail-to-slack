@@ -55,5 +55,9 @@
         <members>AuditTrailAction__mdt-Audit Trail Action to Track Layout</members>
         <name>Layout</name>
     </types>
-    <version>41.0</version>
+    <types>
+      <members>SetupAuditTrailToSlack</members>
+      <name>NamedCredential</name>
+    </types>
+    <version>47.0</version>
 </Package>
